@@ -40,7 +40,7 @@
       align-items: center;
       justify-content: space-evenly;
       gap: 10px 20px; 
-      padding: 10px;
+      
     }
     .child {
         width: 100px;  /* Or whatever */
@@ -60,7 +60,7 @@
       display: grid;
       margin-left: 5%;
       grid-template-columns: repeat(auto-fit,minmax(clamp(100%/(var(--n) + 1) + 0.1%,(var(--w) - 100vw)*1000,100%),1fr)); /*this */
-      gap:10px;
+      
     
       grid-template-rows: auto;
       grid-template-areas: 
@@ -68,9 +68,7 @@
         "main main main main"
         "footer footer footer footer";
     }
-  main {
-    display: block;
-  }
+  
   
   html, body, p, th, td, li, dd, dt  {
     font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
