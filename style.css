@@ -34,14 +34,17 @@
     }
     .item-b {
       grid-area: main;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-evenly;
+      padding: 10px;
     }
-    .item-c {
+    /*.item-c {
       grid-area: sidebar;
       @media only screen and ( min-width: 480px ) and ( max-width: 767px ) {
         /* your css goes here */
-    }
-    
-    }
+
     .item-d {
       grid-area: footer;
     }
@@ -55,7 +58,7 @@
       grid-template-rows: auto;
       grid-template-areas: 
         "header header header header"
-        "main main . sidebar"
+        "main main main main"
         "footer footer footer footer";
     }
   main {
