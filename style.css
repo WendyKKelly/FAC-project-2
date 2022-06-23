@@ -42,6 +42,11 @@
       gap: 10px 20px; 
       padding: 10px;
     }
+    .child {
+        width: 100px;  /* Or whatever */
+        height: 100px; /* Or whatever */
+        margin: auto;  
+    }
     /*.item-c {
       grid-area: sidebar;
       @media only screen and ( min-width: 480px ) and ( max-width: 767px ) {
