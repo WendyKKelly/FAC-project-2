@@ -47,6 +47,18 @@
         height: 400px; 
         margin: auto;  
     }
+    .pro-1{
+background-color: #54b3d6;
+    }
+    .pro-2 {
+        background-color:#009
+    }
+    .pro-3 {
+        background-color: #54b3d6;
+    }
+    .pro-4 {
+        background-color:#009
+    }
     /*.item-c {
       grid-area: sidebar;
       @media only screen and ( min-width: 480px ) and ( max-width: 767px ) {
