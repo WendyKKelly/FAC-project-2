@@ -71,6 +71,18 @@ background-color: #54b3d6;
         margin: auto;  
         background-color:#009
     }
+    .pro-5 {
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
+        background-color: #54b3d6;
+    }
+    .pro-6 {
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
+        background-color:#009
+    }
     /*.item-c {
       grid-area: sidebar;
       @media only screen and ( min-width: 480px ) and ( max-width: 767px ) {
