@@ -48,15 +48,27 @@
         margin: auto;  
     }
     .pro-1{
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
 background-color: #54b3d6;
     }
     .pro-2 {
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
         background-color:#009
     }
     .pro-3 {
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
         background-color: #54b3d6;
     }
     .pro-4 {
+        width: 400px;  
+        height: 400px; 
+        margin: auto;  
         background-color:#009
     }
     /*.item-c {
