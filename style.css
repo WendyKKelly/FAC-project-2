@@ -47,7 +47,7 @@
         height: 400px; 
         margin: auto;  
     }
-    #description {
+    .description {
       max-height: 50px;
       display: block;
     }
