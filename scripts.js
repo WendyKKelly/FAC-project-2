@@ -10,7 +10,47 @@ var dateTime = date+' and it is '+time + " o'clock";
 document.getElementById("displayDateTime").innerHTML = ' Today is ' + daylist[day] + dateTime;
 
 function displayDescription() {
-    var x = document.getElementById("description");
+    var x = document.getElementById("description1");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  function displayDescription() {
+    var x = document.getElementById("description2");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  function displayDescription() {
+    var x = document.getElementById("description3");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  function displayDescription() {
+    var x = document.getElementById("description4");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  function displayDescription() {
+    var x = document.getElementById("description5");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "none";
+    }
+  } 
+  function displayDescription() {
+    var x = document.getElementById("description6");
     if (x.style.display === "block") {
       x.style.display = "none";
     } else {
