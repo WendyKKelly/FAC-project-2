@@ -11,10 +11,10 @@ document.getElementById("displayDateTime").innerHTML = ' Today is ' + daylist[da
 
  function disDesc(){
     const description = document.querySelector(".description");
-    if (description.style.display === "block") {
-     description.style.display = "none";
+    if (description.style.display === "none") {
+     description.style.display = "block";
     } else {
-        description.style.display = "block";
+        description.style.display = "none";
         
     }
   } 

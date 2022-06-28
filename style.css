@@ -50,7 +50,7 @@
     
     .description {
       max-height: 50px;
-      display: block;
+      display: none;
     }
     .description2 {
       max-height: 50px;
