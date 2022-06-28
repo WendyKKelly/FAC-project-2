@@ -9,7 +9,7 @@ var dateTime = date+' and it is '+time + " o'clock";
  
 document.getElementById("displayDateTime").innerHTML = ' Today is ' + daylist[day] + dateTime;
 
-button.onclick = function () {
+ function displayDescription(){
     const child = document.querySelector("#description");
     if (child.className == "open") {
      child.className = "";
