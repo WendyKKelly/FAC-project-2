@@ -15,7 +15,7 @@ function displayDescription() {
      child.className = "";
      button.innerHTML = "Show More"
     } else {
-        article.className = "open";
+        child.className = "open";
         button.innerHTML = "Show Less"
     }
   } 
