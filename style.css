@@ -44,11 +44,12 @@
     }
     .child {
         width: 400px;  
-        height: 350px; 
+        height: 400px; 
         margin: auto;  
     }
-    child.open {
-      max-height: 400px;
+    #description {
+      max-height: 50px;
+      display: block;
     }
     .pro-1{
         width: 400px;  

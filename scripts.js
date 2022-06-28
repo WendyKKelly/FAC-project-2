@@ -10,12 +10,11 @@ var dateTime = date+' and it is '+time + " o'clock";
 document.getElementById("displayDateTime").innerHTML = ' Today is ' + daylist[day] + dateTime;
 
  function displayDescription(){
-    const child = document.querySelector("#description");
-    if (child.className == "open") {
-     child.className = "";
-     button.innerHTML = "Show More"
+    const description = document.querySelector("#description");
+    if (description.display === "none") {
+     description.display = "block";
     } else {
-        child.className = "open";
+        description.display = "none";
         
     }
   } 
