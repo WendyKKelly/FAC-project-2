@@ -16,6 +16,6 @@ button.onclick = function () {
      button.innerHTML = "Show More"
     } else {
         child.className = "open";
-        button.innerHTML = "Show Less"
+        
     }
   } 
