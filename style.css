@@ -47,10 +47,32 @@
         height: 400px; 
         margin: auto;  
     }
+    
     .description {
       max-height: 50px;
       display: block;
     }
+    .description2 {
+      max-height: 50px;
+      display: block;
+    }
+    .description3 {
+      max-height: 50px;
+      display: block;
+    }
+    .description4 {
+      max-height: 50px;
+      display: block;
+    }
+    .description5 {
+      max-height: 50px;
+      display: block;
+    }
+    .description6 {
+      max-height: 50px;
+      display: block;
+    }
+
     .pro-1{
         width: 400px;  
         height: 400px; 
