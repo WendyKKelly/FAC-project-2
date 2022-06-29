@@ -20,50 +20,50 @@ document.getElementById("displayDateTime").innerHTML = ' Today is ' + daylist[da
   } 
   function disDesc2(){
     const description2 = document.querySelector(".description2");
-    if (description2.style.display === "none") {
-     description2.style.display = "block";
+    if (description2.style.display === "block") {
+     description2.style.display = "none";
     } else {
-        description2.style.display = "none";
+        description2.style.display = "block";
         
     }
   } 
 
   function disDesc3(){
     const description3 = document.querySelector(".description3");
-    if (description3.style.display === "none") {
-     description3.style.display = "block";
+    if (description3.style.display === "block") {
+     description3.style.display = "none";
     } else {
-        description3.style.display = "none";
+        description3.style.display = "block";
         
     }
   } 
 
   function disDesc4(){
     const description4 = document.querySelector(".description4");
-    if (description4.style.display === "none") {
-     description4.style.display = "block";
+    if (description4.style.display === "block") {
+     description4.style.display = "none";
     } else {
-        description4.style.display = "none";
+        description4.style.display = "block";
         
     }
   } 
 
   function disDesc5(){
     const description5 = document.querySelector(".description5");
-    if (description5.style.display === "none") {
-     description5.style.display = "block";
+    if (description5.style.display === "block") {
+     description5.style.display = "none";
     } else {
-        description5.style.display = "none";
+        description5.style.display = "block";
         
     }
   } 
 
   function disDesc6(){
     const description6 = document.querySelector(".description6");
-    if (description6.style.display === "none") {
-     description6.style.display = "block";
+    if (description6.style.display === "block") {
+     description6.style.display = "none";
     } else {
-        description6.style.display = "none";
+        description6.style.display = "block";
         
     }
   } 
