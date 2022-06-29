@@ -230,11 +230,12 @@ a:active { color: #0cf; }
   }
   
   button {
-    background: #0e0b22;
-    color: #fff;
+    background: transparent;
+    color: #808080;
     padding: 0.6rem;
     margin-top: 20px;
-    border: none;
+    border: 1rem;
+    border-color: #808080;
     border-radius: 4px;
   }
 
